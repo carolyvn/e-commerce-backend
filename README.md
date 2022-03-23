@@ -38,3 +38,5 @@ Build the back end for an e-commerce site by using Express.js API and Sequelize 
     THEN I am able to successfully create, update, and delete data in my database
     
 ## Demo
+[part1](https://user-images.githubusercontent.com/90424035/159647925-65c40d25-c38b-431e-8f68-b912c2e408a3.mov)
+[part2](https://user-images.githubusercontent.com/90424035/159647955-291adc5c-a590-4cb3-b4f8-278ff7eed089.mov)
